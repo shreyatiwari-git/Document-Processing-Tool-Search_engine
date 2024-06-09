@@ -1,5 +1,5 @@
 # Document-Processing-Tool-Search_engine
-In this project I am used the concepts of data structures course to build a realworld system to solve a real world problem. In particular, in this project I build a natural
+In this project I am used the concepts of data structures course to build a real world system to solve a real world problem. In particular, in this project I build a natural
 language-based question answering system that will process given corpus of documents (say complete works
 of Mahatama Gandhi) and answer any question posed by the user in natural language. My system is
 expected to answer the questions using the corpus of documents provided by you.
