@@ -5,5 +5,5 @@ of Mahatama Gandhi) and answer any question posed by the user in natural languag
 expected to answer the questions using the corpus of documents provided by you.
 In this project I am created a search engine that will return all matching answers to an input query in
 the corpus provided, similar to they way search engines return the results. The input query may start from middle of a word and end at the
-middle of a word, yet you are expected to return all the sentences in the given corpus that match your input
+middle of a word, yet this search engine is expected to return all the sentences in the given corpus that match your input
 query. There will be marks for correctness as well as efficiency if your implementation. In addition, I am created a dictionary that counts the number of occurrences of each word in the given corpus.
